@@ -1,10 +1,6 @@
 <!-- Intro-->
 
-<!--
-* Thanks for reviewing my Project-README-Template! 
-* 
-* Read the comments for an easy step by step guide. Enjoy!
--->
+
 
 <!-- Shields Section--> <!-- Optional -->
 
@@ -23,12 +19,10 @@
 <br>
 
 
-<!-- Logo Section  --> <!-- Required -->
+<!-- Logo Section  --> 
 
 <!--
-* Insert your github profile URL in the <a> "href" attribute bellow (line-25)
-* 
-* Insert an image URL in the <img> "src" attribute bellow. (line-26)
+* Inserting logo a san image
 -->
 <div align="center" id="top">
     <a href="AsadFattani" target="_blank">
