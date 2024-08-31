@@ -30,7 +30,7 @@
 * 
 * Insert an image URL in the <img> "src" attribute bellow. (line-26)
 -->
-<div align="center">
+<div align="center" id="top">
     <a href="AsadFattani" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/123973804?s=96&v=4"
         alt="Logo" height="300" width="auto">
@@ -112,7 +112,7 @@ This repository is dedicated to my work in the **Programming Fundamentals Lab** 
 
 
 <!-- back to top button. -->
-<p align="right"><a href="#how-to-use-this-project">back to top ⬆️</a></p>
+<p align="right"><a href="#top">back to top ⬆️</a></p>
 
 
 ## Project Roadmap 
@@ -125,7 +125,7 @@ This repository is dedicated to my work in the **Programming Fundamentals Lab** 
 - [x] Create a More Dynamic README file.
 - [ ] Make a first pseudocode file
 
-<p align="right"><a href="#how-to-use-this-project">back to top ⬆️</a></p>
+<p align="right"><a href="#top">back to top ⬆️</a></p>
 
 
 
@@ -166,7 +166,7 @@ This repository is dedicated to my work in the **Programming Fundamentals Lab** 
 <!-- TBD -->
 
 <!-- - Use this html element to create a back to top button. -->
-<p align="right"><a href="#how-to-use-this-project">back to top ⬆️</a></p>
+<p align="right"><a href="#top">back to top ⬆️</a></p>
 
 
 ## Feedback<!-- Required -->
@@ -201,7 +201,7 @@ Reach me via email: [asad.imran.fattani@gmail.com](mailto:asad.imran.fattani@gma
 
 
 <!-- - Use this html element to create a back to top button. -->
-<p align="right"><a href="#how-to-use-this-project">back to top ⬆️</a></p>
+<p align="right"><a href="#top">back to top ⬆️</a></p>
 
 
 
