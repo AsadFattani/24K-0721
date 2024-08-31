@@ -135,10 +135,10 @@ This repository is dedicated to my work in the **Programming Fundamentals Lab** 
 * 
 * 
 -->
-- [Wiki html] (https://en.wikipedia.org/wiki/HTML)
-- [Wiki C(programming language)] https://en.wikipedia.org/wiki/C_(programming_language)
-- [Wiki Pseudocode] (https://en.wikipedia.org/wiki/Pseudocode)
-- [Wiki Pseudocode] (https://en.wikipedia.org/wiki/Algorithm)
+- [Wiki html](https://en.wikipedia.org/wiki/HTML)
+- [Wiki C(programming language)](https://en.wikipedia.org/wiki/C_(programming_language))
+- [Wiki Pseudocode](https://en.wikipedia.org/wiki/Pseudocode)
+- [Wiki Pseudocode](https://en.wikipedia.org/wiki/Algorithm)
 
 
 ## Contributors
