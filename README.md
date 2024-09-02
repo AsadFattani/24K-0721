@@ -190,7 +190,7 @@ Reach me via email: [asad.imran.fattani@gmail.com](mailto:asad.imran.fattani@gma
 * 
 * check this website for an easy reference https://choosealicense.com/)
 -->
-- [liscense] (not specified)
+- [liscense] (no liscence)
 
 
 
