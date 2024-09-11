@@ -6,26 +6,41 @@
 
 - Pseudocode
  
-        START
-        PRINT "Enter a positive integer: "
-        INPUT n
+        Start
+        PRINT "Enter Customer ID:"
+        INPUT customerID
+        PRINT "Enter Customer Name:"
+        INPUT customerName
+        PRINT "Enter Units Consumed:"
+        INPUT unitsConsumed
         
-        IF n >= 1 AND n <= 9 THEN
-            SWITCH n
-                CASE 1: PRINT "one"
-                CASE 2: PRINT "two"
-                CASE 3: PRINT "three"
-                CASE 4: PRINT "four"
-                CASE 5: PRINT "five"
-                CASE 6: PRINT "six"
-                CASE 7: PRINT "seven"
-                CASE 8: PRINT "eight"
-                CASE 9: PRINT "nine"
-            END SWITCH
+        IF unitsConsumed <= 199
+            chargePerUnit = 16.20
+        ELSE IF unitsConsumed >= 200 AND unitsConsumed < 300
+            chargePerUnit = 20.10
+        ELSE IF unitsConsumed >= 300 AND unitsConsumed < 500
+            chargePerUnit = 27.10
         ELSE
-            PRINT "greater than 9"
-        END IF
-        END
+            chargePerUnit = 35.90
+        
+        totalBill = unitsConsumed * chargePerUnit
+        
+        IF totalBill > 18000
+            surcharge = totalBill * 0.15
+        ELSE
+            surcharge = 0
+        
+        PRINT "Electricity Bill"
+        PRINT "Customer ID:" customerID
+        PRINT "Customer Name:" customerName
+        PRINT "Units Consumed:" unitsConsumed
+        PRINT "Amount Charged @ Rs." chargePerUnit "per unit:" totalBill
+        
+        IF surcharge > 0
+            PRINT "Surcharge Amount:" surcharge
+        
+        PRINT "Net Amount Paid by the Customer:" (totalBill + surcharge)
+        End
 
   
 - Flowchart
