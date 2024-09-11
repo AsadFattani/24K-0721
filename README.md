@@ -117,7 +117,10 @@ This repository is dedicated to my work in the **Programming Fundamentals Lab** 
 -->
 - [x] Create first Template 
 - [x] Create a More Dynamic README file.
-- [ ] Make a first pseudocode file
+- [x] Make a first pseudocode file
+- [x] LAB 03
+- [x] LAB 04
+- [ ] LAB n
 
 <p align="right"><a href="#top">back to top ⬆️</a></p>
 
