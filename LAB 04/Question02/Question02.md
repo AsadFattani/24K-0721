@@ -5,12 +5,46 @@
 -->
 
 - Pseudocode
- 
-      INPUT number
-      if number % 3 == 0:
-      print("The number is a multiple of 3")
-      else:
-      print("The number is not a multiple of 3")
+
+      START
+      PRINT "Enter number 1: "
+      INPUT num1
+      PRINT "Enter operator (+, -, *, /): "
+      INPUT operator
+      PRINT "Enter number 2: "
+      INPUT num2
+     
+      SWITCH operator4
+        case +
+            PRINT "The sum is ", num1 + num2
+            BREAK
+        case -
+            PRINT "The sum is ", num1 - num2
+            BREAK
+        case *
+            PRINT "The sum is ", num1 * num2
+            BREAK
+        case /
+            IF num2 != 0 THEN
+                PRINT "The division is " num1 / num2
+            ELSE
+                PRINT "Error: Division by zero is not allowed."
+            ENDIF
+            BREAK
+        DEFAULT
+            PRINT "Invalid operator!"
+            BREAK
+      ENDSWITCH
+          
   
 - Flowchart
-<img src="Question01.jpeg" width = "400" height = "auto" >
+<img src="Question02.jpeg" width = "400" height = "auto" >
+
+
+
+
+
+
+
+
+
