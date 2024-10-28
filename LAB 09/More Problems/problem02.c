@@ -1,18 +1,34 @@
 #include <stdio.h>
-#include <string.h>
 
-void strSwap(char val1[20], char val2[20]){
+void swapIntegers(int num1, int num2){
+    int temp;
+
+    printf("\n");
+    printf("Before Swap");
+    printf("\nFirst number is %d ", num1);
+    printf("\nSecond number is %d ", num2);
+
+    temp = num1;
+    num1 = num2;
+    num2 = temp;
+
+    printf("\n");
+    printf("\nAfter Swap");
+    printf("\nFirst number is %d ", num1);
+    printf("\nSecond number is %d ", num2);
     
-
-
 }
 
 int main() {
+    int num1, num2;
 
-    char str1[20] = "ali";
-    char str2[20] = "amir";
+    printf("Enter Numbers to swap!");
+    printf("\nEnter first num: ");
+    scanf("%d", &num1);
+    printf("Enter second num: ");
+    scanf("%d", &num2);
 
-    strSwap(str1, str2);
+    swapIntegers(num1, num2);
     
     return 0;
 }
