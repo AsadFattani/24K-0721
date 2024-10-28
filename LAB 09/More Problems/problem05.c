@@ -2,8 +2,8 @@
 #include <string.h>
 
 // In this approach we are using temp as the middle man and using by ref till the end
-// Another approach could be creating a variable and using for loop to copy the end values and reversing it 
-// Another approach could be 
+// Another approach could be creating a variable and using for loop to copy(strcpy) the end values and reversing it 
+// Another approach could be using recursions
 
 void reverseStr(char *str){
     int length = strlen(str), 
