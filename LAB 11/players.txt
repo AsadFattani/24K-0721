@@ -1,5 +1,5 @@
-Player1 TeamA
-Player2 TeamB
-Player3 TeamC
-Player4 TeamD
-Player5 TeamE
+Joshua Australia
+David England
+Michael India
+John Pakistan
+James SouthAfrica
