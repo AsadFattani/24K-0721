@@ -1,15 +1,5 @@
 <!-- Intro-->
 
-
-
-<!-- Shields Section--> <!-- Optional -->
-
-<!-- 
-* Insert project shields and badges through this link https://shields.io/
-* 
-*
--->
-
 <div align="center">
     <a href="https://github.com/AsadFattani/24K-0721/blob/main/LICENSE.txt"><img alt="GitHub license" src="https://img.shields.io/github/license/AsadFattani/24K-0721?color=ff69b4&style=for-the-badge"></a>
     <a href="https://github.com/AsadFattani/24K-0721/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/AsadFattani/24K-0721?color=yellow&label=Project%20Stars&style=for-the-badge"></a>
@@ -21,9 +11,6 @@
 
 <!-- Logo Section  --> 
 
-<!--
-* Inserting logo a san image
--->
 <div align="center" id="top">
     <a href="AsadFattani" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/123973804?s=96&v=4"
@@ -120,7 +107,14 @@ This repository is dedicated to my work in the **Programming Fundamentals Lab** 
 - [x] Make a first pseudocode file
 - [x] LAB 03
 - [x] LAB 04
-- [ ] LAB n
+- [x] LAB 05
+- [x] LAB 06
+- [x] LAB 07
+- [x] LAB 08
+- [x] LAB 09
+- [x] LAB 10
+- [x] LAB 11
+- [x] LAB 12
 
 <p align="right"><a href="#top">back to top ⬆️</a></p>
 
